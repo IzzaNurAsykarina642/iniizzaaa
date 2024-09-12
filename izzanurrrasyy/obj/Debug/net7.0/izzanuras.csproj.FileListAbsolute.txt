@@ -1,0 +1,5 @@
+C:\Users\User\Documents\img project\izzanurrrasyy\obj\Debug\net7.0\izzanuras.csproj.AssemblyReference.cache
+C:\Users\User\Documents\img project\izzanurrrasyy\obj\Debug\net7.0\izzanuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\img project\izzanurrrasyy\obj\Debug\net7.0\izzanuras.AssemblyInfoInputs.cache
+C:\Users\User\Documents\img project\izzanurrrasyy\obj\Debug\net7.0\izzanuras.AssemblyInfo.cs
+C:\Users\User\Documents\img project\izzanurrrasyy\obj\Debug\net7.0\izzanuras.csproj.CoreCompileInputs.cache
